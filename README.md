@@ -1,0 +1,24 @@
+- 👋 Hi, I’m @HarmonDavid
+-
+-  👀 I’m interested in
+- Physics
+- Robotics
+- AI
+- Cryptography
+- Hardware Design
+- Optics
+- Photonics
+- 
+- 🌱 I’m currently learning
+- SystemVerilog
+- Verilog
+- The newest C
+- Hardware Design Principles
+- 
+- 💞️ I’m looking to collaborate on
+- Whatever, ask away, I might say yes.
+- 
+- 📫 How to reach me
+- Haven't gotten that far yet, still setting everything up
+- I am slow, because I get busy with other things.
+- Don't take it personally, I take my time with everything.
